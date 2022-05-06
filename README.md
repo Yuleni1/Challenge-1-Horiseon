@@ -31,7 +31,7 @@ The websites modification will improve accessibility.
 
 https://yuleni1.github.io/Challenge-1-Horiseon/
 
-![Horiseon Website](assets\images\Horiseon.png)
+![Horiseon Website](assets\images\Horiseon-screenshot.png)
 
 ## Technologies Required
 
